@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Polícia Militar",
+    "phone": "190",
+    "category": "Segurança"
+  },
+  {
+    "name": "Prefeitura Municipal",
+    "phone": "(11) 1234-5678",
+    "category": "Governo"
+  },
+  {
+    "name": "Supermercado Central",
+    "phone": "(11) 98765-4321",
+    "category": "Comércio"
+  }
+]
